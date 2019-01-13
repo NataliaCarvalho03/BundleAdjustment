@@ -1,6 +1,6 @@
 # BundleAdjustment
 
-Requeriments: 
+Requiriments: 
 
 - Python 3.x
 - Sympy
